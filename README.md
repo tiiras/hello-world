@@ -1,2 +1,3 @@
-# hello-world
+# digiHarjoitus
 Harjoitus
+Tässä harjoitus
